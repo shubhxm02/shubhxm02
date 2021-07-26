@@ -5,7 +5,8 @@
 </h1>
 
 <!-- # Hi👋, I'm Shubham -->
-## Glad to see you here!  &nbsp;  ![profile count](https://komarev.com/ghpvc/?username=shubhxm02&color=red)&nbsp;  ![GitHub followers](https://img.shields.io/github/followers/shubhxm02)  ![GitHub User's stars](https://img.shields.io/github/stars/shubhxm02)  
+## Glad to see you here!  &nbsp;  ![profile count](https://komarev.com/ghpvc/?username=shubhxm02&color=red)&nbsp; 
+<!-- ![GitHub followers](https://img.shields.io/github/followers/shubhxm02)  ![GitHub User's stars](https://img.shields.io/github/stars/shubhxm02)   -->
   
 * 🎓  I'm Shubham, First year IT undergrad @ Delhi Technological University (DTU/DCE) 
 * 💡   I'm on track for learning more about Artificial Intelligence and Computer Vision
