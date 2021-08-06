@@ -8,7 +8,7 @@
 ## Glad to see you here!  &nbsp;  ![profile count](https://komarev.com/ghpvc/?username=shubhxm02&color=red)&nbsp; 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/shubhxm02)  ![GitHub User's stars](https://img.shields.io/github/stars/shubhxm02)   -->
   
-* 🎓  I'm Shubham, First year IT undergrad @ Delhi Technological University (DTU/DCE) 
+* 🎓  I'm Shubham, IT sophomore @ Delhi Technological University (DTU/DCE) 
 * 💡   I'm on track for learning more about Artificial Intelligence and Computer Vision
 * ⚡  Feel free to reach out to me for general consulting, project ideas or discussions
 <!-- ✉️ You can email me at shubham53.sg@gmail.com. I'll try to respond as soon as possible!-->
